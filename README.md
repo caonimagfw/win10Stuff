@@ -23,12 +23,15 @@ some win10 log
 7、在打开的命令提示符框中输入下面代码并按下回车键即可完成激活：
 
 slmgr /ipk YYVX9-NTFWV-6MDM3-9PT4T-4M68B
+
 slmgr /skms kms.03k.org
+
 slmg /ato
 
 slmgr /skms 127.0.0.1
 
 完成操作后我们按下win+R呼出运行，在框中输入：slmgr /dlv 点击确定即可看到当前的激活时限：
+
 
 嫌麻烦的用户可以直接下载win10政府版，iso文件信息如下：
 

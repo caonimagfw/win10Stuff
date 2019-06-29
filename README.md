@@ -104,3 +104,11 @@ slmgr /skms 127.0.0.1
 关于400年激活的测试，参见这篇文章：
 
 测试下400年的KMS激活
+
+
+2.office 
+cd "C:\Program Files (x86)\Microsoft Office\Office16"
+
+1
+cscript ospp.vbs /sethst:kms.03k.org
+cscript ospp.vbs /act
